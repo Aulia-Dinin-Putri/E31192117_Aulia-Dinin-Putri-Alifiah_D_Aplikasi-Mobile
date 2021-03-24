@@ -1,0 +1,4 @@
+com/example/praktikum3_activity/BuildConfig.java
+ com.example.praktikum3_activity.BuildConfig
+com/example/praktikum3_activity/MainActivity.java
+ com.example.praktikum3_activity.MainActivity
